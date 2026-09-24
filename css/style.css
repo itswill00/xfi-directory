@@ -59,14 +59,13 @@ nav.scrolled{background:rgba(15,15,18,0.96);box-shadow:0 4px 30px rgba(0,0,0,0.4
 .hero-lottie{position:absolute;inset:0;pointer-events:none;z-index:0;overflow:hidden;contain:strict;display:flex;flex-direction:row;justify-content:space-evenly;gap:10px;animation:lottieIn 1s var(--ease) .1s both;content-visibility:auto;contain-intrinsic-size:100vw 100vh}
 @keyframes lottieIn{from{opacity:0}to{opacity:1}}
 .strip-row{position:relative;display:flex;flex-direction:column;height:max-content;opacity:.52;-webkit-mask-image:linear-gradient(180deg,transparent 0,#000 16%,#000 84%,transparent 100%);mask-image:linear-gradient(180deg,transparent 0,#000 16%,#000 84%,transparent 100%)}
-.strip-a{animation:marqueeY 38s linear infinite,weaveX 9s ease-in-out infinite;animation-delay:0s,.08s}
-.strip-b{animation:marqueeY 96s linear infinite reverse,weaveX 11s ease-in-out infinite reverse;animation-delay:.12s,.18s}
-.strip-c{animation:marqueeY 55s linear infinite,weaveX 10s ease-in-out infinite;animation-delay:.24s,.06s}
-.strip-d{animation:marqueeY 130s linear infinite reverse,weaveX 12s ease-in-out infinite reverse;animation-delay:.36s,.14s}
-.strip-e{animation:marqueeY 72s linear infinite,weaveX 8.5s ease-in-out infinite;animation-delay:.08s,.22s}
-.strip-row img{width:120px;height:120px;object-fit:cover;border-radius:16px;margin-bottom:10px;border:1px solid rgba(255,255,255,0.09);filter:saturate(1.05) blur(2.6px);transform:translateZ(0) scale(1.04);will-change:transform;contain:paint}
+.strip-a{animation:marqueeY 38s linear infinite;animation-delay:0s}
+.strip-b{animation:marqueeY 96s linear infinite reverse;animation-delay:.12s}
+.strip-c{animation:marqueeY 55s linear infinite;animation-delay:.24s}
+.strip-d{animation:marqueeY 130s linear infinite reverse;animation-delay:.36s}
+.strip-e{animation:marqueeY 72s linear infinite;animation-delay:.08s}
+.strip-row img{width:120px;height:120px;object-fit:cover;border-radius:16px;margin-bottom:10px;border:1px solid rgba(255,255,255,0.09);filter:saturate(1.05);opacity:.9;transform:translateZ(0);will-change:transform;contain:paint}
 @keyframes marqueeY{from{transform:translateY(0)}to{transform:translateY(-50%)}}
-@keyframes weaveX{0%,100%{translate:0 0}50%{translate:4px 0}}
 .hero-lottie::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,15,18,0.78) 0%,rgba(15,15,18,0.58) 30%,rgba(15,15,18,0.58) 70%,rgba(15,15,18,0.86) 100%)}
 @media(max-width:600px){.hero-lottie{gap:8px;animation:none;contain:paint}.strip-row{animation:none!important;opacity:.44;will-change:auto}.strip-a{animation:marqueeY 50s linear infinite!important;will-change:transform;transform:translateZ(0)}.strip-b{animation:marqueeY 110s linear infinite reverse!important;will-change:transform;transform:translateZ(0)}.strip-row img{width:80px;height:80px;border-radius:12px;filter:saturate(1.05);transform:translateZ(0);will-change:auto}.strip-c,.strip-d,.strip-e{display:none}.hero-lottie::after{background:linear-gradient(180deg,rgba(15,15,18,0.84) 0%,rgba(15,15,18,0.66) 30%,rgba(15,15,18,0.66) 70%,rgba(15,15,18,0.90) 100%)}}
 @media(prefers-reduced-motion:reduce){.hero-lottie{display:none}}
@@ -95,7 +94,7 @@ nav.scrolled{background:rgba(15,15,18,0.96);box-shadow:0 4px 30px rgba(0,0,0,0.4
 .stat b{font-family:'Outfit';font-size:20px;display:block;transition:color .3s, transform .3s var(--ease);font-variant-numeric:tabular-nums lining-nums}
 .stat:hover b{color:var(--orange);transform:scale(1.05)}
 .stat span{font-size:11px;color:var(--muted);letter-spacing:.5px}
-@media(max-width:500px){.hero-stats{grid-template-columns:repeat(2,1fr);gap:6px}}
+@media(max-width:600px){.hero-stats{grid-template-columns:repeat(2,1fr);gap:6px}}
 .about{padding:36px 0;background:var(--dark2);border-top:1px solid var(--border);border-bottom:1px solid var(--border);content-visibility:auto;contain-intrinsic-size:auto 320px;contain:layout paint}
 .about-grid{display:grid;grid-template-columns:1fr;gap:24px;max-width:960px;margin:0 auto}
 @media(min-width:800px){.about-grid{grid-template-columns:1.2fr .9fr;align-items:center;gap:28px}.about-text h2,.about-text p{text-align:left;margin-left:0;margin-right:0}.about-text p{max-width:48ch}}
