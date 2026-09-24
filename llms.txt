@@ -5,46 +5,165 @@
 - Website: https://xiaomifederationindonesia.vercel.app/
 - Telegram: https://t.me/xfichat
 - Channel: https://t.me/XiaomiFederationIndonesia
-- GitHub: https://github.com/itswill00/xfi-web
+- GitHub: https://github.com/itswill00/xfi-directory
 - XiaomiHub ID: https://github.com/xiaomihub-id
 
 ## Apa itu XFI?
 
-XFI adalah federasi 110 grup Telegram Xiaomi se-Indonesia. Dari yang hobi oprek sampai yang cuma mau nanya “HP ini worth it gak?” semua ngumpul di sini. Kalau ada spam atau scam, sekali diblok di satu grup, otomatis keblok di semua grup XFI.
+XFI adalah federasi 110 grup Telegram Xiaomi se-Indonesia. Dari yang hobi oprek sampai yang cuma mau nanya HP ini worth it atau tidak, semua ngumpul di sini. Kalau ada spam atau scam, sekali diblok di satu grup, otomatis keblok di semua grup XFI. Total sekitar 254K member.
 
 ## Daftar Grup
 
 - Direktori: https://xiaomifederationindonesia.vercel.app/#grup
-- Filter by kategori: XFI, Redmi Note, Redmi, POCO, Xiaomi/Mi, Komunitas
-- Filter by device: 110 device (Note 4 - Note 15, Redmi 9-15C, POCO F1-F8, Xiaomi 12-15T, Garnet, Zircon, Tanzanite, dll)
-- Search: ginkgo, tanzanite, POCO X3, Note 12, Vili, dll
+- Filter by kategori: XFI, Redmi Note, Redmi, POCO, Xiaomi/Mi, Komunitas, Lainnya
+- Search: ginkgo, tanzanite, POCO X3, Note 12, Vili, surya, garnet
 - 110 grup, foto asli 320x320, join langsung via t.me
+
+- XFI | Front-End (XFI, 1.2K) @xfichat: https://t.me/xfichat
+- Xiaomi Redmi Note 4/4X (Mido) (Note 4, 4.2K) @rn4official: https://t.me/rn4official
+- Xiaomi Redmi Note 6 Pro (Tulip) (Note 6, 1.5K) @IndoTulip: https://t.me/IndoTulip
+- Xiaomi Redmi Note 7 (Lavender) (Note 7, 14.7K) @RedmiNote7Indonesia: https://t.me/RedmiNote7Indonesia
+- Xiaomi Redmi Note 8 (Ginkgo) (Note 8, 7.3K) @redminote8indonesia: https://t.me/redminote8indonesia
+- Xiaomi Redmi Note 8 Pro (Begonia) (Note 8 Pro, 5.0K) @redminote8proindonesia: https://t.me/redminote8proindonesia
+- Xiaomi Redmi Note 9 (Merlin) (Note 9, 5.0K) @RN9_Indonesia: https://t.me/RN9_Indonesia
+- Xiaomi Redmi Note 9 Pro (Joyeuse) (Note 9 Pro, 5.2K) @RN9ProIndonesia: https://t.me/RN9ProIndonesia
+- Xiaomi Redmi Note 10S / POCO M5S (Rosemary) (Note 10S, 4.9K) @RedmiNote10SIndonesia: https://t.me/RedmiNote10SIndonesia
+- Xiaomi Redmi Note 10 Pro (Sweet) (Note 10 Pro, 8.1K) @RedmiNote10ProID: https://t.me/RedmiNote10ProID
+- Xiaomi Redmi Note 11 (Spesn) (Note 11, 3.6K) @RN11Indonesia: https://t.me/RN11Indonesia
+- Xiaomi Redmi Note 12 4G NFC (Topaz) (Note 12, 2.8K) @RedmiNote12Indonesia: https://t.me/RedmiNote12Indonesia
+- Xiaomi Redmi Note 12 Pro 5G (Ruby) (Note 12 Pro, 657) @RN12PRO_ID: https://t.me/RN12PRO_ID
+- Xiaomi Redmi Note 13 4G NFC (Sapphiren) (Note 13, 1.7K) @RedmiNote13Indonesia: https://t.me/RedmiNote13Indonesia
+- Xiaomi Redmi Note 13 Pro 5G / POCO X6 5G (Garnet) (Garnet, 1.8K) @GarnetIndonesia: https://t.me/GarnetIndonesia
+- Xiaomi Redmi Note 13 Pro+ 5G (Zircon) (Zircon, 117) @zirconid: https://t.me/zirconid
+- Xiaomi Redmi Note 14 4G (Tanzanite) (Tanzanite, 1.6K) @RN14ID: https://t.me/RN14ID
+- Xiaomi Redmi 9 (Lancelot) (Redmi 9, 3.0K) @redmi_9indonesia: https://t.me/redmi_9indonesia
+- Xiaomi Redmi 9A / 10A (Dandelion) (Redmi 9A, 1.5K) @R9AIndonesia: https://t.me/R9AIndonesia
+- Xiaomi Redmi 10 (Selene) (Redmi 10, 1.6K) @Redmi_10ID: https://t.me/Redmi_10ID
+- Xiaomi Redmi Note 3 Pro (Kenzo) (Redmi Note 3 Pro, 879) @RN3ProIndonesia: https://t.me/RN3ProIndonesia
+- Xiaomi Redmi Note 4 MTK (Nikel) (Redmi Note 4 MTK, 2.1K) @redmi_note_4x_mediatek: https://t.me/redmi_note_4x_mediatek
+- Xiaomi Redmi Note 4X (Mido) (Redmi Note 4X, 4.3K) @RedmiNote4XIndonesia: https://t.me/RedmiNote4XIndonesia
+- Xiaomi Redmi Note 5A Prime (Ugg) (Redmi Note 5A Prime, 3K) @redminote_5aid: https://t.me/redminote_5aid
+- Xiaomi Redmi Note 5 Pro (WhyRed) (Redmi Note 5 Pro, 2K) @RN5Indonesia: https://t.me/RN5Indonesia
+- Xiaomi Redmi Note 10 (Mojito/Sunny) (Redmi Note 10, 5.1K) @RedmiNote10ID: https://t.me/RedmiNote10ID
+- Xiaomi Redmi Note 10 5G (Camellian) (Redmi Note 10 5G, 1.2K) @CamellianIndonesia: https://t.me/CamellianIndonesia
+- Xiaomi Redmi Note 11 Pro (Viva) (Redmi Note 11 Pro, 1.5K) @RedmiNote11ProID: https://t.me/RedmiNote11ProID
+- Xiaomi Redmi Note 11 Pro 5G (Veux) (Redmi Note 11 Pro 5G, 1.1K) @redminote11pro5g: https://t.me/redminote11pro5g
+- Xiaomi Redmi Note 13 5G (Iron) (Redmi Note 13 5G, 594) @Note135GID: https://t.me/Note135GID
+- Xiaomi Redmi Note 13 Pro (Emerald) (Redmi Note 13 Pro, 487) @EmeraldID: https://t.me/EmeraldID
+- Xiaomi Redmi Note 14 5G (Beryl) (Redmi Note 14 5G, 707) @BerylIndonesia: https://t.me/BerylIndonesia
+- Xiaomi Redmi Note 14 Pro 5G (Malachite) (Redmi Note 14 Pro 5G, 868) @MalachiteIndonesia: https://t.me/MalachiteIndonesia
+- Xiaomi Redmi Note 14 Pro+ 5G (Amethyst) (Redmi Note 14 Pro+ 5G, 757) @RN14ProPlusID: https://t.me/RN14ProPlusID
+- Xiaomi Redmi Note 15 (Spinel) (Redmi Note 15, 543) @REDMINote15Indo: https://t.me/REDMINote15Indo
+- Xiaomi Redmi Note 15 5G (Kunzite) (Redmi Note 15 5G, 1.4K) @kunziteid: https://t.me/kunziteid
+- Xiaomi Redmi Note 15 Pro 5G (Lapis) (Redmi Note 15 Pro 5G, 74) @RN15ProID: https://t.me/RN15ProID
+- Xiaomi Redmi Note 15 Pro+ 5G (Flourite) (Redmi Note 15 Pro+ 5G, 77) @FlouriteID: https://t.me/FlouriteID
+- Xiaomi Redmi A1 (Ice) (Redmi A1, 97) @RA1IND: https://t.me/RA1IND
+- Xiaomi Redmi A2 (Water) (Redmi A2, 117) @RA2_ID: https://t.me/RA2_ID
+- Xiaomi Redmi A3 (Blue) (Redmi A3, 233) @RedmiA3Indonesia: https://t.me/RedmiA3Indonesia
+- Xiaomi Redmi A5 (Serenity) (Redmi A5, 851) @RedmiA5Official: https://t.me/RedmiA5Official
+- Xiaomi Redmi 1S (Kaskus) (Redmi 1S, 144) @Redmi1S_Kaskus: https://t.me/Redmi1S_Kaskus
+- Xiaomi Redmi 2 Prime (Redmi 2 Prime, 245) @r2pindo: https://t.me/r2pindo
+- Xiaomi Redmi 4A (Rolex) (Redmi 4A, 4.9K) @RolexIndonesia: https://t.me/RolexIndonesia
+- Xiaomi Redmi 5 (Rosy) (Redmi 5, 1.8K) @rosy_indonesia: https://t.me/rosy_indonesia
+- Xiaomi Redmi 5 Plus (Vince) (Redmi 5 Plus, 5.1K) @redmi5plusindonesia: https://t.me/redmi5plusindonesia
+- Xiaomi Redmi 6 (Cereus) (Redmi 6, 734) @cereusindonesia: https://t.me/cereusindonesia
+- Xiaomi Redmi 6A (Cactus) (Redmi 6A, 2.7K) @Cactus_Indonesia: https://t.me/Cactus_Indonesia
+- Xiaomi Redmi 6 Pro (Sakura) (Redmi 6 Pro, 483) @SakuraIndonesia: https://t.me/SakuraIndonesia
+- Xiaomi Redmi 7 (Onclite) (Redmi 7, 1.6K) @Redmi7ID_Group: https://t.me/Redmi7ID_Group
+- Xiaomi Redmi 8 (Olive) (Redmi 8, 1.4K) @Redmi8ID_Group: https://t.me/Redmi8ID_Group
+- Xiaomi Redmi 8A (Olivelite) (Redmi 8A, 1.8K) @Redmi8AIndonesia: https://t.me/Redmi8AIndonesia
+- Xiaomi Redmi 9C (Angelica) (Redmi 9C, 2.6K) @Redmi9CID: https://t.me/Redmi9CID
+- Xiaomi Redmi 9T (Juice) (Redmi 9T, 2.7K) @JuiceDiscussionID: https://t.me/JuiceDiscussionID
+- Xiaomi Redmi K20 Series (Redmi K20 Series, 1.3K) @RedmiK20ProIndonesia: https://t.me/RedmiK20ProIndonesia
+- Xiaomi Redmi 10C (Fog) (Redmi 10C, 2K) @Redmi_10CID: https://t.me/Redmi_10CID
+- Xiaomi Redmi 10 5G (Light) (Redmi 10 5G, 181) @Redmi10_5GID: https://t.me/Redmi10_5GID
+- Xiaomi Redmi 12 (Fire) (Redmi 12, 501) @r12_ID: https://t.me/r12_ID
+- Xiaomi Redmi 12C (Earth) (Redmi 12C, 373) @R12CIDG: https://t.me/R12CIDG
+- Xiaomi Redmi 13 (Moon) (Redmi 13, 466) @Redmi13ID: https://t.me/Redmi13ID
+- Xiaomi Redmi 13C (Gust) (Redmi 13C, 1.1K) @R13C_ID: https://t.me/R13C_ID
+- Xiaomi Redmi 14C (Lake) (Redmi 14C, 891) @redmi14c_indo: https://t.me/redmi14c_indo
+- Xiaomi Redmi 15 (Creek) (Redmi 15, 56) @CreekIndonesia: https://t.me/CreekIndonesia
+- Xiaomi Redmi 15C (Dew) (Redmi 15C, 250) @DewIndonesia: https://t.me/DewIndonesia
+- Xiaomi Mi A1 (Tissot) (Mi A1, 1.9K) @MiAndroidOne_id: https://t.me/MiAndroidOne_id
+- Xiaomi Mi 6X (Wayne) (Mi 6X, 1.2K) @Mi6XGroup: https://t.me/Mi6XGroup
+- Xiaomi Mi 8 Lite (Platina) (Mi 8 Lite, 1.6K) @mi8liteindonesia: https://t.me/mi8liteindonesia
+- Xiaomi Mi 8 (Dipper) (Mi 8, 1.5K) @officialdipperindonesia: https://t.me/officialdipperindonesia
+- Xiaomi Mi 10 Series (Apollo) (Mi 10 Series, 533) @XiaomiMi10Indonesia: https://t.me/XiaomiMi10Indonesia
+- Xiaomi Mi 10 T/Pro Series (Apollo) (Mi 10 T/Pro Series, 375) @Mi10TSeriesID: https://t.me/Mi10TSeriesID
+- Xiaomi Mi 11 Series (Venus) (Mi 11 Series, 273) @Mi11SeriesIndonesia: https://t.me/Mi11SeriesIndonesia
+- Xiaomi 11T Pro (Vili) (11T Pro, 1.2K) @Mi11TProIndonesia: https://t.me/Mi11TProIndonesia
+- Xiaomi 12 Lite (Taoyao) (12 Lite, 1.5K) @Xiaomi12LiteID: https://t.me/Xiaomi12LiteID
+- Xiaomi 12 Series (12 Series, 167) @Xiaomi12SeriesID: https://t.me/Xiaomi12SeriesID
+- Xiaomi 14 (Houji) (14, 25) @Xiaomi_14ID: https://t.me/Xiaomi_14ID
+- Xiaomi 14T (Degas) (14T, 952) @xiaomi14t_indo: https://t.me/xiaomi14t_indo
+- Xiaomi 14T Pro (Rothko) (14T Pro, 945) @Xiaomi14TProIndonesia: https://t.me/Xiaomi14TProIndonesia
+- Xiaomi 15T (Goya) (15T, 184) @Xiaomi15TIndonesia: https://t.me/Xiaomi15TIndonesia
+- POCO C40 (Frost) (POCO C40, 58) @PocoC40ID: https://t.me/PocoC40ID
+- POCO F1 (Beryllium) (POCO F1, 5.6K) @PocophoneIndonesiaOfficial: https://t.me/PocophoneIndonesiaOfficial
+- POCO F2 Pro (LMI) (POCO F2 Pro, 1.6K) @pocof2proindonesia: https://t.me/pocof2proindonesia
+- POCO F3 (Alioth) (POCO F3, 7.3K) @PocoF3ID: https://t.me/PocoF3ID
+- POCO F4 (Munch) (POCO F4, 4.9K) @PocoF4Indonesia: https://t.me/PocoF4Indonesia
+- POCO F4 GT (Ingres) (POCO F4 GT, 73) @PocoF4GTID: https://t.me/PocoF4GTID
+- POCO F5 (Marble) (POCO F5, 3.4K) @PocoF5indo: https://t.me/PocoF5indo
+- POCO F6 (Peridot) (POCO F6, 2.2K) @PocoF6Indo: https://t.me/PocoF6Indo
+- POCO F7 (Onyx) (POCO F7, 3.2K) @PocoF7IndonesiaGroup: https://t.me/PocoF7IndonesiaGroup
+- POCO F7 Pro (Zorn) (POCO F7 Pro, 889) @PocoF7ProIndonesia: https://t.me/PocoF7ProIndonesia
+- POCO F7 Ultra (Miro) (POCO F7 Ultra, 203) @PocoF7UltraIndonesia: https://t.me/PocoF7UltraIndonesia
+- POCO F8 Series (POCO F8 Series, 726) @PocoF8Indo: https://t.me/PocoF8Indo
+- POCO M4 Pro (Fleur) (POCO M4 Pro, 2K) @pocom4proindonesia: https://t.me/pocom4proindonesia
+- POCO M5 (Stone) (POCO M5, 1.1K) @PocoM5ID: https://t.me/PocoM5ID
+- POCO X3 NFC (Surya) (POCO X3 NFC, 12.8K) @PocoX3ID: https://t.me/PocoX3ID
+- POCO X3 Pro (Vayu-Bhima) (POCO X3 Pro, 6.5K) @PocoX3ProIndonesia: https://t.me/PocoX3ProIndonesia
+- POCO X3 GT (Chopin) (POCO X3 GT, 67) @PocoX3GTIndonesia: https://t.me/PocoX3GTIndonesia
+- POCO X5 5G (Moonstone) (POCO X5 5G, 2.3K) @PocoX5Indonesia: https://t.me/PocoX5Indonesia
+- POCO X5 PRO (Redwood) (POCO X5 PRO, 724) @PocoX5ProIndo: https://t.me/PocoX5ProIndo
+- POCO X6 Pro 5G (Duchamp) (POCO X6 Pro 5G, 2.8K) @pocox6proid: https://t.me/pocox6proid
+- POCO X7 Pro (Rodin) (POCO X7 Pro, 3.7K) @PocoX7ProIDChat: https://t.me/PocoX7ProIDChat
+- POCO X8 Pro (Klee) (POCO X8 Pro, 1.2K) @PocoX8ProINA: https://t.me/PocoX8ProINA
+- POCO X8 Pro Max (Dash) (POCO X8 Pro Max, 1.2K) @POCOX8ProMaxID: https://t.me/POCOX8ProMaxID
+- Xiaomi Gamers Indonesia (Gamers Harus Join) (Gamers Indonesia, 4.1K) @XiaomiGamersID: https://t.me/XiaomiGamersID
+- Xiaomi Photography Indonesia (Photography Indonesia, 23.7K) @XiaomiPhotographyID: https://t.me/XiaomiPhotographyID
+- Xiaomi Empire (Jual Beli, lelang & Membahas Device) (Empire, 5K) @xiaomiempire: https://t.me/xiaomiempire
+- Xiaomi Mi Community Indonesia (Mi Community Indonesia, 2K) @MiTeleindonesia: https://t.me/MiTeleindonesia
+- Substratum Indonesia (Substratum Indonesia, 5.2K) @substratumindonesia: https://t.me/substratumindonesia
+- Telegram Discipline (Telegram Discipline, 8) @tdfedchat: https://t.me/tdfedchat
+- tdspya Federation (tdspya Federation, 1.3K) @tdspya: https://t.me/tdspya
+- SFX (SFX, 113) @sfxchats: https://t.me/sfxchats
 
 ## Aturan XFI
 
 - Wajib pakai username: https://t.me/username
-- Hormati anggota dan admin, no SARA/rasis/toxic
-- No spam/flood, no ROM/kernel/modul berbayar, no APK crack, no promosi/phishing/Bitcoin, no cheat, no porn/LGBT
-- Jasa remote tidak didukung (rawan tipu), donasi sukarela boleh
+- Hormati anggota dan admin, no SARA, no rasis, no toxic
+- No spam, no flood, no ROM atau kernel atau modul berbayar, no APK crack, no promosi, no phishing, no Bitcoin, no cheat, no porn
+- Jasa remote tidak didukung karena rawan tipu, admin bisa beri peringatan sampai fban, donasi sukarela boleh
 - Detail: https://xiaomifederationindonesia.vercel.app/#aturan
 
 ## Cara Join
 
 1. Buka https://xiaomifederationindonesia.vercel.app/
-2. Cari HP-mu di filter atau search
-3. Klik Join Grup → langsung ke Telegram
+2. Cari HP-mu di filter kategori atau search codename
+3. Klik Join Grup, langsung ke Telegram
+4. Wajib pasang username dulu di https://t.me/username
 
 ## FAQ
 
 Q: Apa itu XFI?
-A: Federasi Xiaomi Indonesia di Telegram, 110 grup tertaut.
+A: Federasi Xiaomi Indonesia di Telegram, 110 grup tertaut, sekitar 254K member. Bukan afiliasi resmi Xiaomi Corp.
 
 Q: Bagaimana cara gabung grup XFI?
-A: Buka web XFI, cari device-mu, klik Join Grup.
+A: Buka web XFI, cari device-mu via search atau kategori, klik Join Grup. Contoh: cari tanzanite untuk Redmi Note 14 4G, ginkgo untuk Note 8, surya untuk POCO X3 NFC.
+
+Q: Grup Redmi Note 12 mana?
+A: Xiaomi Redmi Note 12 4G NFC (Topaz): https://t.me/RedmiNote12Indonesia. Cari Topaz atau Note 12 di web XFI.
 
 Q: Apakah XFI resmi Xiaomi?
-A: Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans.
+A: Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans Indonesia.
 
 Q: Bagaimana aturan XFI?
-A: Lihat https://xiaomifederationindonesia.vercel.app/#aturan — wajib username, no spam, no SARA, dll.
+A: Wajib username, no spam, no SARA, no ROM berbayar, no APK bajakan, no promosi, no cheat. Jasa remote tidak didukung karena rawan tipu. Lihat https://xiaomifederationindonesia.vercel.app/#aturan
 
+Q: Apa itu fban XFI?
+A: Blok sekali di satu grup, otomatis keblok di semua grup federasi. Berlaku untuk spam, scam, dan pelanggaran berat.
+
+Q: Apakah jasa remote boleh di XFI?
+A: Tidak didukung. XFI gratis untuk berbagi ilmu. Donasi sukarela sebagai terima kasih tetap boleh.

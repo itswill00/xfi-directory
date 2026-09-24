@@ -10,13 +10,13 @@
   "icons": [
     {
       "src": "assets/images/xfi-group.jpg",
-      "sizes": "192x192",
+      "sizes": "320x320",
       "type": "image/jpeg",
       "purpose": "any maskable"
     },
     {
       "src": "assets/images/xfi-group.webp",
-      "sizes": "512x512",
+      "sizes": "320x320",
       "type": "image/webp",
       "purpose": "any maskable"
     }

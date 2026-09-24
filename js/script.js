@@ -13,21 +13,21 @@ const isReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').ma
 const I18N = {
   id: {
     nav_home:"Beranda", nav_about:"Tentang", nav_rules:"Aturan", nav_groups:"Daftar Grup",
-    hero_badge:"Federasi Xiaomi Indonesia / Telegram", hero_title:"Xiaomi Federation <span>Indonesia</span>", hero_desc:"Tempat kumpul Mi Fans se-Indonesia. Cari grup sesuai HP-mu, tanya oprek, share ROM, langsung join.", hero_cta1:"Cari Grup HP-mu →", hero_cta2:"Join Grup XFI ↗",
+    hero_title:"Xiaomi Federation <span>Indonesia</span>", hero_desc:"Tempat kumpul Mi Fans se-Indonesia. Cari grup sesuai HP-mu, tanya oprek, share ROM, langsung join.", hero_cta1:"Cari Grup HP-mu →", hero_cta2:"Join Grup XFI ↗",
     about_title:"Apa itu <span>XFI?</span>", about_p1:'XFI itu rumah bareng <span id="aboutGroupsCount">110</span>+ grup Telegram Xiaomi se-Indonesia. Dari yang hobi oprek sampai yang cuma mau nanya “HP ini worth it gak?” semua ngumpul di sini.', about_p2:"Kalau ada spam atau scam, sekali diblok di satu grup, otomatis keblok di semua grup XFI. Jadi diskusinya tetap bersih dan nyaman.", about_c1_b:"Bebas Spam", about_c1_s:"Blok sekali, bersih di semua grup", about_c2_b:"Saling Bantu", about_c2_s:"Jawaban cepat dari sesama user", about_c3_b:"Ngobrol 24 Jam", about_c3_s:"Ada terus yang standby",
     rules_title:"Aturan <span>XFI</span>", rules_sub:"Berlaku di semua grup tertaut XFI. Sopan, tertib, biar diskusi tetap nyaman buat semua.", r0_b:"Aturan bisa berubah sewaktu-waktu", r0_p:"Selalu cek pembaruan biar tidak ketinggalan. Info terbaru selalu diumumkan.", r1_b:"Wajib pakai username", r1_p:'Biar gampang di-tag dan dihubungi. Belum punya? Buat dulu di <a href="https://t.me/username" target="_blank" rel="noopener">t.me/username</a>', r2_b:"Saling menghormati", r2_p:"Sopan ke anggota dan admin. No SARA, no rasis, no toxic berlebihan.", r3_b:"Jangan spam atau flood", r3_p:"Hindari pesan berulang, huruf gede berlebihan, atau OOT yang ganggu diskusi.", r4_b:"ROM, kernel, modul berbayar dilarang", r4_p:'Jangan bahas atau share yang berbayar. Hargai dev yang gratis. <a href="https://t.me/XiaomiFederationIndonesia/495" target="_blank" rel="noopener">info</a>', r5_b:"Aplikasi bajakan dilarang", r5_p:'Jangan share APK crack, tani, atau mod ilegal. Termasuk channelnya. <a href="https://t.me/XiaomiFederationIndonesia/1119" target="_blank" rel="noopener">info</a>', r6_b:"Dilarang promosi", r6_p:"No iklan, no link phishing, no bahas Bitcoin atau money game.", r7_b:"No cheat", r7_p:'Jangan bahas, share, atau pakai cheat game online. Fair play ya. <a href="https://t.me/XiaomiFederationIndonesia/1123" target="_blank" rel="noopener">info</a>', r8_b:"Hindari konten sensitif", r8_p:"No pornografi, no LGBT, dan topik sensitif lain yang tidak nyambung sama Xiaomi.", r9_b:"Jasa remote", r9_p:'XFI itu gratis untuk berbagi ilmu. Jasa remote tidak didukung karena rawan tipu. Admin bisa kasih peringatan sampai fban. Donasi sukarela sebagai terima kasih tetap boleh. <a href="https://t.me/XiaomiFederationIndonesia/1492" target="_blank" rel="noopener">info selengkapnya</a>', r10_b:"Balik lagi ke aturan 0", r10_p:"Patuhi semuanya dan pantau terus update aturannya.", rules_foot:"Makasih udah jaga grup tetap kondusif! 2026 · XFI",
     groups_title:"Daftar Grup Tertaut <span>XFI</span>", groups_sub:'<span id="totalGroupsText">110</span> grup aktif. Pilih kategori di bawah, langsung ketemu grup yang pas.', results_hint:"Pilih kategori untuk filter", search_ph:"Cari HP-mu… misal: ginkgo, tanzanite, POCO X3 atau \"Note 12\"",
     stat_groups:"Grup Tertaut", stat_members:"Member Grup", stat_codenames:"Codename", stat_cats:"Kategori",
-    footer_desc:"Rumah Mi Fans Indonesia di Telegram, dari newbie sampai opreker.", footer_quick:"Link Cepat", footer_link_home:"Beranda", footer_link_about:"Tentang XFI", footer_link_rules:"Aturan XFI", footer_link_groups:"Daftar Grup", footer_contact:"Kontak", footer_link_chat:"@xfichat Grup", footer_link_channel:"Channel Pengumuman", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans.", nav_cta:"Gabung Telegram", footer_meta:"110 Grup, 6 Kategori, Se-Indonesia", footer_contact_sub:"Respon cepat, tanya oprek, ROM, device", footer_contact_cta:"Join @xfichat →", footer_donate:"Donasi ♡", groups_missing:'Grup kamu belum ada? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Hubungi @noticesa</a> di Telegram.'
+    footer_desc:"Rumah Mi Fans Indonesia di Telegram, dari newbie sampai opreker.", footer_quick:"Link Cepat", footer_link_home:"Beranda", footer_link_about:"Tentang XFI", footer_link_rules:"Aturan XFI", footer_link_groups:"Daftar Grup", footer_contact:"Kontak", footer_link_chat:"@xfichat Grup", footer_link_channel:"Channel Pengumuman", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans.", nav_cta:"Gabung Telegram", footer_meta:"110 Grup, 6 Kategori, Se-Indonesia", footer_donate:"Donasi ♡", groups_missing:'Grup kamu belum ada? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Hubungi @noticesa</a> di Telegram.'
   },
   en: {
     nav_home:"Home", nav_about:"About", nav_rules:"Rules", nav_groups:"Groups",
-    hero_badge:"Xiaomi Federation Indonesia / Telegram", hero_title:"Xiaomi Federation <span>Indonesia</span>", hero_desc:"Home of Mi Fans across Indonesia. Find your device group, ask about mods, share ROMs, join instantly.", hero_cta1:"Find Your Device →", hero_cta2:"Join XFI Group ↗",
+    hero_title:"Xiaomi Federation <span>Indonesia</span>", hero_desc:"Home of Mi Fans across Indonesia. Find your device group, ask about mods, share ROMs, join instantly.", hero_cta1:"Find Your Device →", hero_cta2:"Join XFI Group ↗",
     about_title:"What is <span>XFI?</span>", about_p1:'XFI is home to <span id="aboutGroupsCount">110</span>+ Xiaomi Telegram groups across Indonesia. From modders to casuals asking “is this phone worth it?”, all gather here.', about_p2:"Spam or scam? Once blocked in one group, automatically blocked in all XFI groups. Discussion stays clean and cozy.", about_c1_b:"Spam-Free", about_c1_s:"Block once, clean everywhere", about_c2_b:"Help Each Other", about_c2_s:"Quick answers from fellow users", about_c3_b:"24/7 Chat", about_c3_s:"Always someone standby",
     rules_title:"XFI <span>Rules</span>", rules_sub:"Applies to all XFI groups. Be polite, stay orderly, keep discussion comfy for everyone.", r0_b:"Rules can change anytime", r0_p:"Always check for updates. Latest info will be announced.", r1_b:"Username required", r1_p:'Easy to tag and contact. Don\'t have one? Create at <a href="https://t.me/username" target="_blank" rel="noopener">t.me/username</a>', r2_b:"Respect everyone", r2_p:"Be polite to members and admins. No SARA, no racism, no excessive toxicity.", r3_b:"No spam or flood", r3_p:"Avoid repeated messages, caps, or off-topic that disrupts discussion.", r4_b:"Paid ROM, kernel, module prohibited", r4_p:'Don\'t discuss or share paid stuff. Respect free devs. <a href="https://t.me/XiaomiFederationIndonesia/495" target="_blank" rel="noopener">info</a>', r5_b:"Pirated apps prohibited", r5_p:'Don\'t share cracked APKs. Includes channels. <a href="https://t.me/XiaomiFederationIndonesia/1119" target="_blank" rel="noopener">info</a>', r6_b:"No promotion", r6_p:"No ads, no phishing links, no Bitcoin or money games.", r7_b:"No cheat", r7_p:'Don\'t discuss, share, or use online game cheats. Fair play. <a href="https://t.me/XiaomiFederationIndonesia/1123" target="_blank" rel="noopener">info</a>', r8_b:"Avoid sensitive content", r8_p:"No pornography, no LGBT, and other sensitive topics unrelated to Xiaomi.", r9_b:"Remote service", r9_p:'XFI is free for sharing knowledge. Remote service not supported due to scam risk. Admins may warn up to fban. Voluntary donations welcome. <a href="https://t.me/XiaomiFederationIndonesia/1492" target="_blank" rel="noopener">info</a>', r10_b:"Back to rule 0", r10_p:"Follow all and keep monitoring updates.", rules_foot:"Thanks for keeping the group conducive! 2026 · XFI",
     groups_title:"XFI Linked <span>Groups</span>", groups_sub:'<span id="totalGroupsText">110</span> active groups. Choose category below to find the right one.', results_hint:"Choose category to filter", search_ph:'Search your phone… e.g. ginkgo, tanzanite, POCO X3 or "Note 12"',
     stat_groups:"Linked Groups", stat_members:"Members", stat_codenames:"Codenames", stat_cats:"Categories",
-    footer_desc:"Home of Mi Fans Indonesia on Telegram, from newbie to modder.", footer_quick:"Quick Links", footer_link_home:"Home", footer_link_about:"About XFI", footer_link_rules:"XFI Rules", footer_link_groups:"Groups", footer_contact:"Contact", footer_link_chat:"@xfichat Group", footer_link_channel:"Channel", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Not affiliated with Xiaomi Corp. Made for Mi Fans.", nav_cta:"Join Telegram", footer_meta:"110 Groups, 6 Categories, Across Indonesia", footer_contact_sub:"Quick response, ask about mods, ROMs, devices", footer_contact_cta:"Join @xfichat →", footer_donate:"Donate ♡", groups_missing:'Missing your group? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Contact @noticesa</a> on Telegram.'
+    footer_desc:"Home of Mi Fans Indonesia on Telegram, from newbie to modder.", footer_quick:"Quick Links", footer_link_home:"Home", footer_link_about:"About XFI", footer_link_rules:"XFI Rules", footer_link_groups:"Groups", footer_contact:"Contact", footer_link_chat:"@xfichat Group", footer_link_channel:"Channel", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Not affiliated with Xiaomi Corp. Made for Mi Fans.", nav_cta:"Join Telegram", footer_meta:"110 Groups, 6 Categories, Across Indonesia", footer_donate:"Donate ♡", groups_missing:'Missing your group? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Contact @noticesa</a> on Telegram.'
   }
 };
 let currentLang = localStorage.getItem('xfi-lang') || (navigator.language && navigator.language.startsWith('en') ? 'en' : 'id');
@@ -180,16 +180,18 @@ function syncURL(){
     if(searchQ) p.set('q', searchQ);
     if(activeCategory!=='all') p.set('cat', activeCategory);
     if(showAll) p.set('all','1');
+    if(typeof currentLang!=='undefined' && currentLang==='en') p.set('lang','en');
     const qs=p.toString();
     const url=qs ? `${location.pathname}?${qs}${location.hash}` : `${location.pathname}${location.hash}`;
     history.replaceState(null,'',url);
   }catch(e){}
 }
+const VALID_CATS=['all','Redmi Note','Redmi','POCO','Xiaomi/Mi','Komunitas','Lainnya'];
 function loadFromURL(){
   try{
     const p=new URLSearchParams(location.search);
     const q=p.get('q'); if(q){ searchQ=q; const inp=document.getElementById('searchInput'); if(inp) inp.value=q; }
-    const cat=p.get('cat'); if(cat) activeCategory=cat;
+    const cat=p.get('cat'); if(cat && VALID_CATS.includes(cat)) activeCategory=cat; else if(cat) activeCategory='all';
     if(p.get('all')==='1') showAll=true;
   }catch(e){}
 }
@@ -243,25 +245,7 @@ function renderCategoryBar(){
   }).join('');
 }
 function renderDeviceBar(){
-  const bar=document.getElementById('deviceBar');
-  if(!bar) return;
-  let devices=[...new Set(groups.map(g=>g.device))];
-  // filter devices by active category
-  if(activeCategory!=='all'){
-    devices=devices.filter(d=>getCategory(d)===activeCategory);
-  }
-  const order=["XFI","Note 4","Note 6","Note 7","Note 8","Note 8 Pro","Note 9","Note 9 Pro","Note 10S","Note 10 Pro","Note 11","Note 12","Note 12 Pro","Note 13","Garnet","Zircon","Tanzanite","Redmi 9","Redmi 9A","Redmi 10"];
-  devices.sort((a,b)=>{
-    const ai=order.indexOf(a), bi=order.indexOf(b);
-    if(ai===-1 && bi===-1) return a.localeCompare(b);
-    if(ai===-1) return 1;
-    if(bi===-1) return -1;
-    return ai-bi;
-  });
-  bar.innerHTML=devices.map(d=>{
-    return `<button class="device-pill ${activeDevice===d?'active':''}" onclick="setDevice('${d}',this)">${d}</button>`;
-  }).join('');
-  bar.style.display = devices.length===0 ? 'none' : 'flex';
+  return;
 }
 function cardHtml(g, idx){
   const cleanDesc = g.desc.replace(/—/g, ',').replace(/–/g, ',').replace(/•/g, ',');
@@ -272,22 +256,25 @@ function cardHtml(g, idx){
   const hHandle = q ? highlight(g.handle, q) : escHtml(g.handle);
   const hDevice = q ? highlight(g.device, q) : escHtml(g.device);
   const hDesc = q ? highlight(shortDesc, q) : escHtml(shortDesc);
+  const safeLink = (typeof g.link==='string' && g.link.startsWith('https://t.me/')) ? g.link : '#';
+  const safeImg = imgSrc(g.img);
+  const fallbackImg = g.img;
   // low-end: first 4 cards eager high-priority for LCP, rest lazy low - same visuals, faster paint
   const eager = !isLowEnd && idx < 4;
   return `<div class="g-card" role="listitem" style="--i:0">
-      <img class="g-bg" src="${imgSrc(g.img)}" alt="" loading="${eager ? 'eager' : 'lazy'}" decoding="async" fetchpriority="${eager ? 'high' : 'low'}" width="320" height="320" aria-hidden="true" onload="this.classList.add('loaded')" onerror="this.style.display='none'">
+      <img class="g-bg" src="${escHtml(safeImg)}" alt="" loading="${eager ? 'eager' : 'lazy'}" decoding="async" fetchpriority="${eager ? 'high' : 'low'}" width="320" height="320" aria-hidden="true" onload="this.classList.add('loaded')" onerror="this.onerror=null;this.src='${escHtml(fallbackImg)}';this.classList.add('loaded');">
       <div class="g-top">
         <div style="min-width:0;flex:1;overflow:hidden">
           <b style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;max-width:100%" title="${escHtml(g.name)}">${hName}</b>
-          <small style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;max-width:100%">${hHandle} · ${hDevice}</small>
+          <small style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;max-width:100%">${hHandle} / ${hDevice}</small>
         </div>
         <span class="g-badge b-group">${currentLang==='en'?'Group':'Grup'}</span>
       </div>
       <div class="g-desc" title="${escHtml(cleanDesc)}">${hDesc}</div>
-      <div class="g-meta"><span>${g.members} member</span></div>
+      <div class="g-meta"><span>${escHtml(g.members)} member</span></div>
       <div class="g-actions">
-        <a class="btn-join" href="${g.link}" target="_blank" rel="noopener">${currentLang==='en'?'Join Group':'Join Grup'}</a>
-        <button class="btn-info" onclick="copyLink('${g.link}', this)">${currentLang==='en'?'Copy Link':'Salin Link'}</button>
+        <a class="btn-join" href="${escHtml(safeLink)}" target="_blank" rel="noopener">${currentLang==='en'?'Join Group':'Join Grup'}</a>
+        <button class="btn-info" onclick="copyLink('${escHtml(safeLink)}', this)">${currentLang==='en'?'Copy Link':'Salin Link'}</button>
       </div>
     </div>`;
 }
@@ -355,7 +342,7 @@ function render(){
     grid.className='card-grid';
     if(wrap) wrap.style.display='none';
     syncURL();
-    const cf=document.getElementById('clearFilter'); if(cf) cf.style.display=(searchQ||activeCategory!=='all'||activeDevice!=='all')?'inline-block':'none';
+    const cf=document.getElementById('clearFilter'); if(cf) cf.style.display=(searchQ||activeCategory!=='all')?'inline-block':'none';
     return;
   }
   if(wrap) wrap.style.display='flex';
@@ -399,7 +386,7 @@ function render(){
     requestAnimationFrame(doObserve);
   }
   syncURL();
-  const cf=document.getElementById('clearFilter'); if(cf) cf.style.display=(searchQ||activeCategory!=='all'||activeDevice!=='all')?'inline-block':'none';
+  const cf=document.getElementById('clearFilter'); if(cf) cf.style.display=(searchQ||activeCategory!=='all')?'inline-block':'none';
   };
   if(!_toggleVT && !isLowEnd && !isReducedMotion && document.startViewTransition){
     try{ document.startViewTransition(doRender); }catch(e){ doRender(); }
@@ -420,13 +407,7 @@ function toggleShowAll(){
   } else { doFlip(); }
 }
 function setDevice(dev,btn){
-  activeDevice=dev;
-  showAll=false;
-  // only deviceBar pills, not categoryBar
-  document.querySelectorAll('#deviceBar .device-pill').forEach(b=>b.classList.remove('active'));
-  btn.classList.add('active');
-  btn.scrollIntoView({behavior:isLowEnd?'auto':'smooth',block:'nearest',inline:'center'});
-  render();
+  return;
 }
 function setCategory(cat,btn){
   activeCategory=cat;
@@ -436,7 +417,6 @@ function setCategory(cat,btn){
   btn.classList.add('active');
   btn.scrollIntoView({behavior:isLowEnd?'auto':'smooth',block:'nearest',inline:'center'});
   renderCategoryBar();
-  renderDeviceBar();
   render();
 }
 let searchT=null;
@@ -470,17 +450,9 @@ function copyLink(url, btn){
 function clearFilters(){
   searchQ=''; activeCategory='all'; activeDevice='all'; showAll=false;
   const inp=document.getElementById('searchInput'); if(inp) inp.value='';
-  renderCategoryBar(); renderDeviceBar(); render();
+  renderCategoryBar(); render();
   showToast(currentLang==='en'?'Filters cleared':'Filter balik ke awal');
   try{ document.getElementById('searchInput').focus(); }catch(e){}
-}
-function copyFilterLink(btn){
-  const url=location.href;
-  navigator.clipboard.writeText(url).then(()=>{
-    const o=btn.textContent; btn.textContent=currentLang==='en'?'Copied!':'Tersalin!';
-    showToast(currentLang==='en'?'Filter link copied':'Link filter tersalin');
-    setTimeout(()=>btn.textContent=o,1500);
-  }).catch(()=>{ showToast(url); });
 }
 // keyboard: Ctrl+K or / focus search, ? help, Esc clear
 document.addEventListener('keydown', e=>{
@@ -552,17 +524,15 @@ window.addEventListener('DOMContentLoaded',initReveal,{once:true});
 // defer below-fold work (groups) to idle so hero paints first - huge LCP win on HP kentang
 const idle = window.requestIdleCallback ? (cb)=>requestIdleCallback(cb,{timeout:1200}) : (cb)=>setTimeout(cb,80);
 idle(()=>{
-  applyLang(currentLang);
   loadFromURL();
+  applyLang(currentLang);
   renderCategoryBar();
-  renderDeviceBar();
   render();
   buildHeroStrip();
   requestAnimationFrame(initReveal);
 });
 // lang toggle
 document.addEventListener('DOMContentLoaded', ()=>{
-  applyLang(currentLang);
   const tog=document.getElementById('langToggle');
   if(tog){
     tog.textContent = currentLang==='id' ? 'EN' : 'ID';
@@ -570,7 +540,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
       const next = currentLang==='id' ? 'en' : 'id';
       applyLang(next);
       renderCategoryBar();
-      renderDeviceBar();
       render();
       showToast(next==='en' ? 'Switched to English' : 'Beralih ke Indonesia');
     });
@@ -580,6 +549,5 @@ document.addEventListener('DOMContentLoaded', ()=>{
 window.addEventListener('popstate',()=>{
   loadFromURL();
   renderCategoryBar();
-  renderDeviceBar();
   render();
 });
