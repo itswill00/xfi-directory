@@ -1,0 +1,50 @@
+# XFI - Xiaomi Federation Indonesia
+
+> Federasi 110 grup Telegram Xiaomi se-Indonesia. Cari grup sesuai HP-mu, tanya oprek, share ROM, langsung join.
+
+- Website: https://xiaomifederationindonesia.vercel.app/
+- Telegram: https://t.me/xfichat
+- Channel: https://t.me/XiaomiFederationIndonesia
+- GitHub: https://github.com/itswill00/xfi-web
+- XiaomiHub ID: https://github.com/xiaomihub-id
+
+## Apa itu XFI?
+
+XFI adalah federasi 110 grup Telegram Xiaomi se-Indonesia. Dari yang hobi oprek sampai yang cuma mau nanya “HP ini worth it gak?” semua ngumpul di sini. Kalau ada spam atau scam, sekali diblok di satu grup, otomatis keblok di semua grup XFI.
+
+## Daftar Grup
+
+- Direktori: https://xiaomifederationindonesia.vercel.app/#grup
+- Filter by kategori: XFI, Redmi Note, Redmi, POCO, Xiaomi/Mi, Komunitas
+- Filter by device: 110 device (Note 4 - Note 15, Redmi 9-15C, POCO F1-F8, Xiaomi 12-15T, Garnet, Zircon, Tanzanite, dll)
+- Search: ginkgo, tanzanite, POCO X3, Note 12, Vili, dll
+- 110 grup, foto asli 320x320, join langsung via t.me
+
+## Aturan XFI
+
+- Wajib pakai username: https://t.me/username
+- Hormati anggota dan admin, no SARA/rasis/toxic
+- No spam/flood, no ROM/kernel/modul berbayar, no APK crack, no promosi/phishing/Bitcoin, no cheat, no porn/LGBT
+- Jasa remote tidak didukung (rawan tipu), donasi sukarela boleh
+- Detail: https://xiaomifederationindonesia.vercel.app/#aturan
+
+## Cara Join
+
+1. Buka https://xiaomifederationindonesia.vercel.app/
+2. Cari HP-mu di filter atau search
+3. Klik Join Grup → langsung ke Telegram
+
+## FAQ
+
+Q: Apa itu XFI?
+A: Federasi Xiaomi Indonesia di Telegram, 110 grup tertaut.
+
+Q: Bagaimana cara gabung grup XFI?
+A: Buka web XFI, cari device-mu, klik Join Grup.
+
+Q: Apakah XFI resmi Xiaomi?
+A: Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans.
+
+Q: Bagaimana aturan XFI?
+A: Lihat https://xiaomifederationindonesia.vercel.app/#aturan — wajib username, no spam, no SARA, dll.
+

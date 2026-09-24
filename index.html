@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>XFI - Xiaomi Federation Indonesia</title>
+<meta name="description" content="Federasi Xiaomi Indonesia di Telegram. 110 grup tertaut, 110 device, info ROM & komunitas Mi Fans.">
+<meta property="og:title" content="XFI - Xiaomi Federation Indonesia">
+<meta property="og:description" content="110 grup Telegram Xiaomi tertaut XFI. Filter by kategori/device, foto asli, join langsung.">
+<meta property="og:image" content="https://xiaomifederationindonesia.vercel.app/assets/images/xfi-group.jpg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://xiaomifederationindonesia.vercel.app/">
+<link rel="canonical" href="https://xiaomifederationindonesia.vercel.app/">
+<link rel="alternate" hreflang="id" href="https://xiaomifederationindonesia.vercel.app/">
+<link rel="alternate" hreflang="en" href="https://xiaomifederationindonesia.vercel.app/?lang=en">
+<link rel="alternate" hreflang="x-default" href="https://xiaomifederationindonesia.vercel.app/">
+<link rel="icon" type="image/png" href="assets/images/favicon.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Xiaomi Federation Indonesia","alternateName":"XFI","url":"https://xiaomifederationindonesia.vercel.app/","logo":"https://xiaomifederationindonesia.vercel.app/assets/images/xfi-group.jpg","description":"Federasi 110 grup Telegram Xiaomi se-Indonesia. Cari grup sesuai HP-mu, tanya oprek, share ROM.","sameAs":["https://t.me/xfichat","https://t.me/XiaomiFederationIndonesia"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Apa itu XFI?","acceptedAnswer":{"@type":"Answer","text":"XFI adalah Xiaomi Federation Indonesia, federasi 110 grup Telegram Xiaomi se-Indonesia. Dari yang hobi oprek sampai yang cuma mau nanya HP ini worth it gak, semua ngumpul di sini. Spam sekali diblok otomatis keblok di semua grup."}},{"@type":"Question","name":"Bagaimana cara gabung grup XFI?","acceptedAnswer":{"@type":"Answer","text":"Buka https://xiaomifederationindonesia.vercel.app/, cari HP-mu via filter kategori/device atau search, lalu klik Join Grup untuk langsung ke Telegram."}},{"@type":"Question","name":"Apakah XFI resmi Xiaomi?","acceptedAnswer":{"@type":"Answer","text":"Bukan. XFI bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans Indonesia."}},{"@type":"Question","name":"Apa aturan utama XFI?","acceptedAnswer":{"@type":"Answer","text":"Wajib pakai username, hormati anggota, no spam/flood, no ROM/kernel berbayar, no APK bajakan, no promosi/phishing/Bitcoin, no cheat, no konten sensitif. Lihat https://xiaomifederationindonesia.vercel.app/#aturan"}}]}</script>
+<link rel="apple-touch-icon" href="assets/images/xfi-group.jpg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#FF6900">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="css/style.css?v=46">
+<link rel="preload" as="image" href="assets/images/xfi-group.webp" type="image/webp" fetchpriority="high">
+<script>document.documentElement.classList.add('js');try{var m=navigator.deviceMemory||8,c=navigator.hardwareConcurrency||8,cn=navigator.connection,sd=cn&&cn.saveData,sl=cn&&/2g/.test(cn.effectiveType||'');if(m<=4||c<=4||sd||sl)document.documentElement.classList.add('low-end');}catch(e){}</script>
+</head>
+<body>
+<a href="#grup" class="skip-link">Lompat ke daftar grup</a>
+
+<nav id="navbar" aria-label="Navigasi utama">
+  <div class="nav-inner">
+    <div class="logo">
+      <div class="logo-box"><picture><source srcset="assets/images/xfi-group.webp" type="image/webp"><img src="assets/images/xfi-group.jpg" alt="XFI" loading="eager" decoding="async" fetchpriority="high" width="32" height="32"></picture></div>
+      <span>XFI</span>
+      <small>Xiaomi Federation Indonesia</small>
+    </div>
+    <div class="nav-links">
+      <a href="#beranda" data-i18n="nav_home">Beranda</a>
+      <a href="#tentang" data-i18n="nav_about">Tentang</a>
+      <a href="#aturan" data-i18n="nav_rules">Aturan</a>
+      <a href="#grup" data-i18n="nav_groups">Daftar Grup</a>
+    </div>
+    <button id="langToggle" class="lang-toggle" aria-label="Switch language">EN</button>
+    <a href="https://t.me/xfichat" target="_blank" rel="noopener" class="nav-cta" data-i18n="nav_cta">Join Telegram</a>
+    <button class="burger" onclick="toggleMenu()" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobileMenu">☰</button>
+  </div>
+  <div id="mobileMenu" class="mobile-menu">
+    <a href="#beranda" onclick="toggleMenu()" data-i18n="nav_home">Beranda</a>
+    <a href="#tentang" onclick="toggleMenu()" data-i18n="nav_about">Tentang</a>
+    <a href="#aturan" onclick="toggleMenu()" data-i18n="nav_rules">Aturan</a>
+    <a href="#grup" onclick="toggleMenu()" data-i18n="nav_groups">Daftar Grup</a>
+  </div>
+</nav>
+
+<section id="beranda" class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-lottie" id="heroLottie" aria-hidden="true"><div class="strip-row strip-a" id="stripA"></div><div class="strip-row strip-b" id="stripB"></div><div class="strip-row strip-c" id="stripC"></div><div class="strip-row strip-d" id="stripD"></div><div class="strip-row strip-e" id="stripE"></div></div>
+  <div class="hero-content">
+    <h1 data-i18n="hero_title">Xiaomi Federation <span>Indonesia</span></h1>
+    <p data-i18n="hero_desc">Tempat kumpul Mi Fans se-Indonesia. Cari grup sesuai HP-mu, tanya oprek, share ROM, langsung join.</p>
+    <div class="hero-actions">
+      <a href="#grup" class="btn-primary" data-i18n="hero_cta1">Cari Grup HP-mu →</a>
+      <a href="https://t.me/xfichat" target="_blank" rel="noopener" class="btn-secondary" data-i18n="hero_cta2">Join Grup XFI ↗</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><b id="countGroups">110+</b><span data-i18n="stat_groups">Grup Tertaut</span></div>
+      <div class="stat"><b id="countMembers">~254K</b><span data-i18n="stat_members">Member Grup</span></div>
+      <div class="stat"><b id="countCodenames">95+</b><span data-i18n="stat_codenames">Codename</span></div>
+      <div class="stat"><b id="countCats">6</b><span data-i18n="stat_cats">Kategori</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="tentang" class="about">
+  <div class="container">
+    <div class="about-grid">
+      <div class="about-text reveal">
+        <h2 data-i18n="about_title">Apa itu <span>XFI?</span></h2>
+        <p data-i18n="about_p1">XFI itu rumah bareng <span id="aboutGroupsCount">110</span>+ grup Telegram Xiaomi se-Indonesia. Dari yang hobi oprek sampai yang cuma mau nanya “HP ini worth it gak?” semua ngumpul di sini.</p>
+        <p data-i18n="about_p2">Kalau ada spam atau scam, sekali diblok di satu grup, otomatis keblok di semua grup XFI. Jadi diskusinya tetap bersih dan nyaman.</p>
+      </div>
+      <div class="about-cards">
+        <div class="mini-card reveal reveal-delay-1"><b data-i18n="about_c1_b">Bebas Spam</b><span data-i18n="about_c1_s">Blok sekali, bersih di semua grup</span></div>
+        <div class="mini-card reveal reveal-delay-2"><b data-i18n="about_c2_b">Saling Bantu</b><span data-i18n="about_c2_s">Jawaban cepat dari sesama user</span></div>
+        <div class="mini-card reveal reveal-delay-3"><b data-i18n="about_c3_b">Ngobrol 24 Jam</b><span data-i18n="about_c3_s">Ada terus yang standby</span></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section id="aturan" class="rules">
+  <div class="container">
+    <div class="section-head reveal">
+      <h2 data-i18n="rules_title">Aturan <span>XFI</span></h2>
+      <p data-i18n="rules_sub">Berlaku di semua grup tertaut XFI. Sopan, tertib, biar diskusi tetap nyaman buat semua.</p>
+    </div>
+    <div class="rules-grid">
+      <div class="rule-card reveal"><span class="rule-num">0</span><div><b data-i18n="r0_b">Aturan bisa berubah sewaktu-waktu</b><p data-i18n="r0_p">Selalu cek pembaruan biar tidak ketinggalan. Info terbaru selalu diumumkan.</p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">1</span><div><b data-i18n="r1_b">Wajib pakai username</b><p data-i18n="r1_p">Biar gampang di-tag dan dihubungi. Belum punya? Buat dulu di <a href="https://t.me/username" target="_blank" rel="noopener">t.me/username</a></p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">2</span><div><b data-i18n="r2_b">Saling menghormati</b><p data-i18n="r2_p">Sopan ke anggota dan admin. No SARA, no rasis, no toxic berlebihan.</p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">3</span><div><b data-i18n="r3_b">Jangan spam atau flood</b><p data-i18n="r3_p">Hindari pesan berulang, huruf gede berlebihan, atau OOT yang ganggu diskusi.</p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">4</span><div><b data-i18n="r4_b">ROM, kernel, modul berbayar dilarang</b><p data-i18n="r4_p">Jangan bahas atau share yang berbayar. Hargai dev yang gratis. <a href="https://t.me/XiaomiFederationIndonesia/495" target="_blank" rel="noopener">info</a></p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">5</span><div><b data-i18n="r5_b">Aplikasi bajakan dilarang</b><p data-i18n="r5_p">Jangan share APK crack, tani, atau mod ilegal. Termasuk channelnya. <a href="https://t.me/XiaomiFederationIndonesia/1119" target="_blank" rel="noopener">info</a></p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">6</span><div><b data-i18n="r6_b">Dilarang promosi</b><p data-i18n="r6_p">No iklan, no link phishing, no bahas Bitcoin atau money game.</p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">7</span><div><b data-i18n="r7_b">No cheat</b><p data-i18n="r7_p">Jangan bahas, share, atau pakai cheat game online. Fair play ya. <a href="https://t.me/XiaomiFederationIndonesia/1123" target="_blank" rel="noopener">info</a></p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">8</span><div><b data-i18n="r8_b">Hindari konten sensitif</b><p data-i18n="r8_p">No pornografi, no LGBT, dan topik sensitif lain yang tidak nyambung sama Xiaomi.</p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">9</span><div><b data-i18n="r9_b">Jasa remote</b><p data-i18n="r9_p">XFI itu gratis untuk berbagi ilmu. Jasa remote tidak didukung karena rawan tipu. Admin bisa kasih peringatan sampai fban. Donasi sukarela sebagai terima kasih tetap boleh. <a href="https://t.me/XiaomiFederationIndonesia/1492" target="_blank" rel="noopener">info selengkapnya</a></p></div></div>
+      <div class="rule-card reveal"><span class="rule-num">10</span><div><b data-i18n="r10_b">Balik lagi ke aturan 0</b><p data-i18n="r10_p">Patuhi semuanya dan pantau terus update aturannya.</p></div></div>
+    </div>
+    <p class="rules-foot reveal" data-i18n="rules_foot">Makasih udah jaga grup tetap kondusif! 2026 · XFI</p>
+  </div>
+</section>
+
+<section id="grup" class="groups">
+  <div class="container">
+    <div class="section-head reveal">
+      <h2 data-i18n="groups_title">Daftar Grup Tertaut <span>XFI</span></h2>
+      <p data-i18n="groups_sub"><span id="totalGroupsText">110</span> grup aktif. Pilih kategori atau device-mu di bawah, langsung ketemu grup yang pas.</p>
+    </div>
+
+    <div class="filter-bar reveal" role="search" aria-label="Filter grup">
+      <input type="text" id="searchInput" placeholder="Cari HP-mu… misal: ginkgo, tanzanite, POCO X3 atau &quot;Note 12&quot;" oninput="onSearch()" aria-label="Cari grup">
+      <span class="search-hint" aria-hidden="true"><kbd>/</kbd></span>
+      <button id="clearFilter" class="btn-secondary" onclick="clearFilters()" style="display:none;white-space:nowrap" aria-label="Reset filter">× Reset</button>
+      </div>
+
+    <div class="device-bar reveal" id="categoryBar" role="group" aria-label="Kategori">
+      <!-- category pills injected by JS -->
+    </div>
+
+    <div class="results-info">
+      <span id="resultsText" role="status" aria-live="polite">Ditemukan 110 grup</span>
+      <span data-i18n="results_hint">Pilih kategori untuk filter</span>
+    </div>
+
+    <div id="groupGrid" class="card-grid" role="list" aria-label="Daftar grup">
+      <!-- injected -->
+    </div>
+    <div class="load-more-wrap" id="loadMoreWrap">
+      <small id="loadInfo">Menampilkan 12 dari 110 grup</small>
+      <button id="loadMoreBtn" class="btn-secondary" onclick="toggleShowAll()" style="display:none">Lihat Semua (110)</button>
+    </div>
+    <p class="groups-missing" data-i18n="groups_missing">Grup kamu belum ada? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Hubungi @noticesa</a> di Telegram.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="container footer-grid">
+    <div>
+      <h3 class="footer-title">Xiaomi Federation <span>Indonesia</span></h3>
+      <p data-i18n="footer_desc">Rumah Mi Fans Indonesia di Telegram, dari newbie sampai opreker.</p>
+      <small class="footer-meta" data-i18n="footer_meta">110 Grup, 6 Kategori, Se-Indonesia</small>
+    </div>
+    <div>
+      <b data-i18n="footer_quick">Link Cepat</b>
+      <a href="#beranda" data-i18n="footer_link_home">Beranda</a>
+      <a href="#tentang" data-i18n="footer_link_about">Tentang XFI</a>
+      <a href="#aturan" data-i18n="footer_link_rules">Aturan XFI</a>
+      <a href="#grup" data-i18n="footer_link_groups">Daftar Grup</a>
+    </div>
+    <div>
+      <b data-i18n="footer_contact">Kontak</b>
+      <a href="https://t.me/xfichat" target="_blank" rel="noopener" data-i18n="footer_link_chat">@xfichat Grup</a>
+      <a href="https://t.me/XiaomiFederationIndonesia" target="_blank" rel="noopener" data-i18n="footer_link_channel">Channel Pengumuman</a>
+      <a href="https://t.me/noticesa" target="_blank" rel="noopener" data-i18n="footer_link_admin">@noticesa Admin</a>
+      <a href="https://sociabuzz.com/noticesa/tribe" target="_blank" rel="noopener" class="footer-donate" data-i18n="footer_donate">Donasi ♡</a>
+    </div>
+  </div>
+  <div class="copyright"><span data-i18n="footer_copy">© 2026 XFI - Xiaomi Federation Indonesia. Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans.</span> <span class="footer-credit">· Crafted by <a href="https://t.me/noticesa" target="_blank" rel="noopener">@noticesa</a></span></div>
+</footer>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script>if('serviceWorker' in navigator){ window.addEventListener('load',()=>{ navigator.serviceWorker.register('/sw.js').catch(()=>{}); }); }</script>
+<script src="js/script.js?v=46" defer></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "name": "XFI - Xiaomi Federation Indonesia",
+  "short_name": "XFI",
+  "description": "Federasi 110 grup Telegram Xiaomi se-Indonesia. Cari grup sesuai HP-mu.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f12",
+  "theme_color": "#FF6900",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/images/xfi-group.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/xfi-group.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
