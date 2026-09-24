@@ -56,21 +56,21 @@ nav.scrolled{background:rgba(15,15,18,0.96);box-shadow:0 4px 30px rgba(0,0,0,0.4
 @media(max-width:600px){.hero{padding:84px 16px 32px;min-height:100vh;min-height:100dvh;min-height:100svh}}
 .hero-bg{position:absolute;inset:0;background:radial-gradient(ellipse 700px 400px at 50% -10%, rgba(255,105,0,0.28), transparent 60%), radial-gradient(ellipse 500px 300px at 90% 30%, rgba(255,105,0,0.14), transparent), linear-gradient(180deg, #1a1108 0%, #0f0f12 60%);z-index:-1;animation:heroShift 14s ease-in-out infinite alternate;transform:translateZ(0);contain:paint;will-change:auto}
 @keyframes heroShift{0%{transform:scale(1) translateY(0)}100%{transform:scale(1.03) translateY(-6px)}}
-.hero-lottie{position:absolute;inset:0;pointer-events:none;z-index:0;overflow:hidden;contain:paint;display:flex;flex-direction:row;justify-content:space-evenly;gap:10px;animation:lottieIn 1s var(--ease) .1s both}
+.hero-lottie{position:absolute;inset:0;pointer-events:none;z-index:0;overflow:hidden;contain:strict;display:flex;flex-direction:row;justify-content:space-evenly;gap:10px;animation:lottieIn 1s var(--ease) .1s both;content-visibility:auto;contain-intrinsic-size:100vw 100vh}
 @keyframes lottieIn{from{opacity:0}to{opacity:1}}
 .strip-row{position:relative;display:flex;flex-direction:column;height:max-content;opacity:.52;-webkit-mask-image:linear-gradient(180deg,transparent 0,#000 16%,#000 84%,transparent 100%);mask-image:linear-gradient(180deg,transparent 0,#000 16%,#000 84%,transparent 100%)}
-.strip-a{animation:marqueeY 38s linear infinite,weaveX 9s ease-in-out infinite}
-.strip-b{animation:marqueeY 96s linear infinite reverse,weaveX 11s ease-in-out infinite reverse}
-.strip-c{animation:marqueeY 55s linear infinite,weaveX 10s ease-in-out infinite}
-.strip-d{animation:marqueeY 130s linear infinite reverse,weaveX 12s ease-in-out infinite reverse}
-.strip-e{animation:marqueeY 72s linear infinite,weaveX 8.5s ease-in-out infinite}
+.strip-a{animation:marqueeY 38s linear infinite,weaveX 9s ease-in-out infinite;animation-delay:0s,.08s}
+.strip-b{animation:marqueeY 96s linear infinite reverse,weaveX 11s ease-in-out infinite reverse;animation-delay:.12s,.18s}
+.strip-c{animation:marqueeY 55s linear infinite,weaveX 10s ease-in-out infinite;animation-delay:.24s,.06s}
+.strip-d{animation:marqueeY 130s linear infinite reverse,weaveX 12s ease-in-out infinite reverse;animation-delay:.36s,.14s}
+.strip-e{animation:marqueeY 72s linear infinite,weaveX 8.5s ease-in-out infinite;animation-delay:.08s,.22s}
 .strip-row img{width:120px;height:120px;object-fit:cover;border-radius:16px;margin-bottom:10px;border:1px solid rgba(255,255,255,0.09);filter:saturate(1.05) blur(2.6px);transform:translateZ(0) scale(1.04);will-change:transform;contain:paint}
 @keyframes marqueeY{from{transform:translateY(0)}to{transform:translateY(-50%)}}
 @keyframes weaveX{0%,100%{translate:0 0}50%{translate:4px 0}}
 .hero-lottie::after{content:'';position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,15,18,0.78) 0%,rgba(15,15,18,0.58) 30%,rgba(15,15,18,0.58) 70%,rgba(15,15,18,0.86) 100%)}
-@media(max-width:600px){.hero-lottie{gap:6px;animation:none;contain:paint}.strip-row{animation:none!important;opacity:.46;will-change:auto}.strip-a{animation:marqueeY 45s linear infinite!important;will-change:transform;transform:translateZ(0)}.strip-b{animation:marqueeY 105s linear infinite reverse!important;will-change:transform;transform:translateZ(0)}.strip-c{animation:marqueeY 62s linear infinite!important;will-change:transform;transform:translateZ(0)}.strip-row img{width:88px;height:88px;border-radius:12px;filter:saturate(1.05) blur(2.2px);transform:translateZ(0);will-change:auto}.strip-d,.strip-e{display:none}.hero-lottie::after{background:linear-gradient(180deg,rgba(15,15,18,0.82) 0%,rgba(15,15,18,0.64) 30%,rgba(15,15,18,0.64) 70%,rgba(15,15,18,0.88) 100%)}}
+@media(max-width:600px){.hero-lottie{gap:8px;animation:none;contain:paint}.strip-row{animation:none!important;opacity:.44;will-change:auto}.strip-a{animation:marqueeY 50s linear infinite!important;will-change:transform;transform:translateZ(0)}.strip-b{animation:marqueeY 110s linear infinite reverse!important;will-change:transform;transform:translateZ(0)}.strip-row img{width:80px;height:80px;border-radius:12px;filter:saturate(1.05);transform:translateZ(0);will-change:auto}.strip-c,.strip-d,.strip-e{display:none}.hero-lottie::after{background:linear-gradient(180deg,rgba(15,15,18,0.84) 0%,rgba(15,15,18,0.66) 30%,rgba(15,15,18,0.66) 70%,rgba(15,15,18,0.90) 100%)}}
 @media(prefers-reduced-motion:reduce){.hero-lottie{display:none}}
-@media(hover:none){.hero-lottie{will-change:auto}.strip-row{will-change:auto}.strip-row img{filter:saturate(1.05) blur(2.2px);will-change:auto;transform:none}.hero-lottie::after{background:linear-gradient(180deg,rgba(15,15,18,0.84) 0%,rgba(15,15,18,0.66) 30%,rgba(15,15,18,0.66) 70%,rgba(15,15,18,0.90) 100%)}}
+@media(hover:none){.hero-lottie{will-change:auto}.strip-row{will-change:auto}.strip-row img{filter:saturate(1.05);will-change:auto;transform:none}.hero-lottie::after{background:linear-gradient(180deg,rgba(15,15,18,0.84) 0%,rgba(15,15,18,0.66) 30%,rgba(15,15,18,0.66) 70%,rgba(15,15,18,0.90) 100%)}}
 .hero-content{max-width:720px;position:relative;z-index:1;background:radial-gradient(ellipse 80% 70% at 50% 45%, rgba(9,9,12,0.9) 0%, rgba(9,9,12,0.6) 55%, transparent 78%);padding:32px 24px}
 @media(max-width:600px){.hero-content{padding:18px 12px}}
 @keyframes fadeUp{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}

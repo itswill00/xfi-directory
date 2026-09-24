@@ -297,10 +297,22 @@ function buildHeroStrip(){
   if(isLowEnd || isReducedMotion) return;
   const rows=['stripA','stripB','stripC','stripD','stripE'].map(id=>document.getElementById(id));
   if(!groups.length||!rows[0]||rows[0].childNodes.length) return;
-  const per=window.innerWidth<600?10:16, step=7;
+  const per=window.innerWidth<600?8:16, step=7;
   const seq=(off)=>{ const out=[]; for(let i=0;i<per;i++) out.push(groups[(off+i*step)%groups.length].img); return out; };
   const mk=list=>{ const h=list.map(p=>`<img src="${imgSrc(p)}" alt="" loading="lazy" decoding="async" width="120" height="120" aria-hidden="true">`).join(''); return h+h; };
   rows.forEach((el,r)=>{ if(el) el.innerHTML=mk(seq(r)); });
+  // pause hero marquee when offscreen to save GPU on mobile
+  try{
+    const hero=document.getElementById('beranda'), lottie=document.getElementById('heroLottie');
+    if(hero && lottie && 'IntersectionObserver' in window){
+      const io=new IntersectionObserver(ents=>{
+        const v=ents[0]?.isIntersecting;
+        lottie.style.animationPlayState=v?'running':'paused';
+        rows.forEach(r=>{ if(r) r.style.animationPlayState=v?'running':'paused'; });
+      },{threshold:0});
+      io.observe(hero);
+    }
+  }catch(e){}
 }
 function render(){
   const doRender = ()=>{
