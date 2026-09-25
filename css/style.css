@@ -212,6 +212,7 @@ footer::before{content:'XFI';position:absolute;right:-10px;bottom:-12px;font-fam
 .footer-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
 .footer-grid > div:first-child{grid-column:1/-1}
 @media(min-width:700px){.footer-grid{grid-template-columns:1.5fr 1fr 1fr}.footer-grid > div:first-child{grid-column:auto}}
+@media(max-width:699px){.footer-grid{text-align:center;justify-items:center}.footer-grid a:hover{transform:none}}
 .footer-title{font-family:'Outfit',sans-serif;font-size:16px;font-weight:700;letter-spacing:-0.02em;color:#fff;margin-bottom:8px}
 .footer-title span{color:var(--orange)}
 footer p{color:var(--muted);font-size:12px;line-height:1.6}
