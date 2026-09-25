@@ -18,7 +18,7 @@ const I18N = {
     rules_title:"Aturan <span>XFI</span>", rules_sub:"Berlaku di semua grup tertaut XFI. Sopan, tertib, biar diskusi tetap nyaman buat semua.", r0_b:"Aturan bisa berubah sewaktu-waktu", r0_p:"Selalu cek pembaruan biar tidak ketinggalan. Info terbaru selalu diumumkan.", r1_b:"Wajib pakai username", r1_p:'Biar gampang di-tag dan dihubungi. Belum punya? Buat dulu di <a href="https://t.me/username" target="_blank" rel="noopener">t.me/username</a>', r2_b:"Saling menghormati", r2_p:"Sopan ke anggota dan admin. No SARA, no rasis, no toxic berlebihan.", r3_b:"Jangan spam atau flood", r3_p:"Hindari pesan berulang, huruf gede berlebihan, atau OOT yang ganggu diskusi.", r4_b:"ROM, kernel, modul berbayar dilarang", r4_p:'Jangan bahas atau share yang berbayar. Hargai dev yang gratis. <a href="https://t.me/XiaomiFederationIndonesia/495" target="_blank" rel="noopener">info</a>', r5_b:"Aplikasi bajakan dilarang", r5_p:'Jangan share APK crack, tani, atau mod ilegal. Termasuk channelnya. <a href="https://t.me/XiaomiFederationIndonesia/1119" target="_blank" rel="noopener">info</a>', r6_b:"Dilarang promosi", r6_p:"No iklan, no link phishing, no bahas Bitcoin atau money game.", r7_b:"No cheat", r7_p:'Jangan bahas, share, atau pakai cheat game online. Fair play ya. <a href="https://t.me/XiaomiFederationIndonesia/1123" target="_blank" rel="noopener">info</a>', r8_b:"Hindari konten sensitif", r8_p:"No pornografi, no LGBT, dan topik sensitif lain yang tidak nyambung sama Xiaomi.", r9_b:"Jasa remote", r9_p:'XFI itu gratis untuk berbagi ilmu. Jasa remote tidak didukung karena rawan tipu. Admin bisa kasih peringatan sampai fban. Donasi sukarela sebagai terima kasih tetap boleh. <a href="https://t.me/XiaomiFederationIndonesia/1492" target="_blank" rel="noopener">info selengkapnya</a>', r10_b:"Balik lagi ke aturan 0", r10_p:"Patuhi semuanya dan pantau terus update aturannya.", rules_foot:"Makasih udah jaga grup tetap kondusif! 2026 · XFI",
     groups_title:"Daftar Grup Tertaut <span>XFI</span>", groups_sub:'<span id="totalGroupsText">110</span> grup aktif. Pilih kategori di bawah, langsung ketemu grup yang pas.', results_hint:"Pilih kategori untuk filter", search_ph:"Cari HP-mu… misal: ginkgo, tanzanite, POCO X3 atau \"Note 12\"",
     stat_groups:"Grup Tertaut", stat_members:"Member Grup", stat_codenames:"Codename", stat_cats:"Kategori",
-    footer_desc:"Rumah Mi Fans Indonesia di Telegram, dari newbie sampai opreker.", footer_quick:"Link Cepat", footer_link_home:"Beranda", footer_link_about:"Tentang XFI", footer_link_rules:"Aturan XFI", footer_link_groups:"Daftar Grup", footer_contact:"Kontak", footer_link_chat:"@xfichat Grup", footer_link_channel:"Channel Pengumuman", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans.", nav_cta:"Gabung Telegram", footer_meta:"110 Grup, 6 Kategori, Se-Indonesia", footer_donate:"Donasi ♡", groups_missing:'Grup kamu belum ada? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Hubungi @noticesa</a> di Telegram.'
+    footer_desc:"Rumah Mi Fans Indonesia di Telegram, dari newbie sampai opreker.", footer_quick:"Link Cepat", footer_link_home:"Beranda", footer_link_about:"Tentang XFI", footer_link_rules:"Aturan XFI", footer_link_groups:"Daftar Grup", footer_contact:"Kontak", footer_link_chat:"@xfichat Grup", footer_link_channel:"Channel Pengumuman", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Bukan afiliasi resmi Xiaomi Corp. Dibuat untuk Mi Fans.", nav_cta:"Gabung Telegram", footer_meta:"110 Grup, 6 Kategori, Se-Indonesia", footer_donate:"Donasi ♡", groups_missing:'Grup kamu belum ada? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Hubungi @noticesa</a> di Telegram.', visits_label:"kunjungan"
   },
   en: {
     nav_home:"Home", nav_about:"About", nav_rules:"Rules", nav_groups:"Groups",
@@ -27,7 +27,7 @@ const I18N = {
     rules_title:"XFI <span>Rules</span>", rules_sub:"Applies to all XFI groups. Be polite, stay orderly, keep discussion comfy for everyone.", r0_b:"Rules can change anytime", r0_p:"Always check for updates. Latest info will be announced.", r1_b:"Username required", r1_p:'Easy to tag and contact. Don\'t have one? Create at <a href="https://t.me/username" target="_blank" rel="noopener">t.me/username</a>', r2_b:"Respect everyone", r2_p:"Be polite to members and admins. No SARA, no racism, no excessive toxicity.", r3_b:"No spam or flood", r3_p:"Avoid repeated messages, caps, or off-topic that disrupts discussion.", r4_b:"Paid ROM, kernel, module prohibited", r4_p:'Don\'t discuss or share paid stuff. Respect free devs. <a href="https://t.me/XiaomiFederationIndonesia/495" target="_blank" rel="noopener">info</a>', r5_b:"Pirated apps prohibited", r5_p:'Don\'t share cracked APKs. Includes channels. <a href="https://t.me/XiaomiFederationIndonesia/1119" target="_blank" rel="noopener">info</a>', r6_b:"No promotion", r6_p:"No ads, no phishing links, no Bitcoin or money games.", r7_b:"No cheat", r7_p:'Don\'t discuss, share, or use online game cheats. Fair play. <a href="https://t.me/XiaomiFederationIndonesia/1123" target="_blank" rel="noopener">info</a>', r8_b:"Avoid sensitive content", r8_p:"No pornography, no LGBT, and other sensitive topics unrelated to Xiaomi.", r9_b:"Remote service", r9_p:'XFI is free for sharing knowledge. Remote service not supported due to scam risk. Admins may warn up to fban. Voluntary donations welcome. <a href="https://t.me/XiaomiFederationIndonesia/1492" target="_blank" rel="noopener">info</a>', r10_b:"Back to rule 0", r10_p:"Follow all and keep monitoring updates.", rules_foot:"Thanks for keeping the group conducive! 2026 · XFI",
     groups_title:"XFI Linked <span>Groups</span>", groups_sub:'<span id="totalGroupsText">110</span> active groups. Choose category below to find the right one.', results_hint:"Choose category to filter", search_ph:'Search your phone… e.g. ginkgo, tanzanite, POCO X3 or "Note 12"',
     stat_groups:"Linked Groups", stat_members:"Members", stat_codenames:"Codenames", stat_cats:"Categories",
-    footer_desc:"Home of Mi Fans Indonesia on Telegram, from newbie to modder.", footer_quick:"Quick Links", footer_link_home:"Home", footer_link_about:"About XFI", footer_link_rules:"XFI Rules", footer_link_groups:"Groups", footer_contact:"Contact", footer_link_chat:"@xfichat Group", footer_link_channel:"Channel", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Not affiliated with Xiaomi Corp. Made for Mi Fans.", nav_cta:"Join Telegram", footer_meta:"110 Groups, 6 Categories, Across Indonesia", footer_donate:"Donate ♡", groups_missing:'Missing your group? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Contact @noticesa</a> on Telegram.'
+    footer_desc:"Home of Mi Fans Indonesia on Telegram, from newbie to modder.", footer_quick:"Quick Links", footer_link_home:"Home", footer_link_about:"About XFI", footer_link_rules:"XFI Rules", footer_link_groups:"Groups", footer_contact:"Contact", footer_link_chat:"@xfichat Group", footer_link_channel:"Channel", footer_link_admin:"@noticesa Admin", footer_copy:"© 2026 XFI - Xiaomi Federation Indonesia. Not affiliated with Xiaomi Corp. Made for Mi Fans.", nav_cta:"Join Telegram", footer_meta:"110 Groups, 6 Categories, Across Indonesia", footer_donate:"Donate ♡", groups_missing:'Missing your group? <a href="https://t.me/noticesa" target="_blank" rel="noopener">Contact @noticesa</a> on Telegram.', visits_label:"visits"
   }
 };
 let currentLang = localStorage.getItem('xfi-lang') || (navigator.language && navigator.language.startsWith('en') ? 'en' : 'id');
@@ -521,6 +521,28 @@ function initReveal(){
   observeCards();
 }
 window.addEventListener('DOMContentLoaded',initReveal,{once:true});
+// total visits: Abacus hit counter, footer subtle, fail-silently hidden
+function loadVisits(){
+  try{
+    const wrap=document.getElementById('visitCount'), num=document.getElementById('visitNum');
+    if(!wrap || !num) return;
+    const host=(location.hostname||'').toLowerCase();
+    const isLocal=!host || host==='localhost' || host==='127.0.0.1' || host.startsWith('192.168.') || location.protocol==='file:';
+    const action=isLocal ? 'get' : 'hit';
+    const ctrl=new AbortController();
+    const t=setTimeout(()=>{ try{ctrl.abort();}catch(e){} },5000);
+    fetch('https://abacus.jasoncameron.dev/'+action+'/xiaomifederationindonesia.vercel.app/total',{signal:ctrl.signal})
+      .then(r=>{ if(!r.ok) throw new Error('http '+r.status); return r.json(); })
+      .then(d=>{
+        clearTimeout(t);
+        const v=Number(d && d.value);
+        if(!Number.isFinite(v)) return;
+        num.textContent=v.toLocaleString(currentLang==='en' ? 'en-US' : 'id-ID');
+        wrap.hidden=false;
+      })
+      .catch(()=>{ clearTimeout(t); });
+  }catch(e){}
+}
 // defer below-fold work (groups) to idle so hero paints first - huge LCP win on HP kentang
 const idle = window.requestIdleCallback ? (cb)=>requestIdleCallback(cb,{timeout:1200}) : (cb)=>setTimeout(cb,80);
 idle(()=>{
@@ -529,6 +551,7 @@ idle(()=>{
   renderCategoryBar();
   render();
   buildHeroStrip();
+  loadVisits();
   requestAnimationFrame(initReveal);
 });
 // lang toggle

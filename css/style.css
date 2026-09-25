@@ -225,6 +225,8 @@ footer p{color:var(--muted);font-size:12px;line-height:1.6}
 .copyright a{color:inherit;text-decoration:underline;text-underline-offset:2px;transition:color .2s}
 .copyright a:hover{color:var(--orange)}
 .footer-credit{opacity:.65;font-weight:400}
+.visit-count{opacity:.55;font-weight:400}
+.visit-count[hidden]{display:none}
 
 .load-more-wrap{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin-top:16px}
 .load-more-wrap small{color:var(--muted);font-size:11px}
