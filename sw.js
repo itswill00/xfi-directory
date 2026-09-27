@@ -1,5 +1,7 @@
 // XFI offline shell — cache-first for shell, stale-while-revalidate for images, no design change
-const CACHE = 'xfi-v7';
+// Bump CACHE on every deploy of shell assets (index/css/js). This is the cache-bust:
+// the HTML must request css/js WITHOUT a ?v= query so precache keys match requests.
+const CACHE = 'xfi-v8';
 const SHELL = [
   '/',
   '/index.html',
